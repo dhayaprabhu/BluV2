@@ -1,0 +1,12 @@
+[package]
+name = "bluv-2-meta"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[dependencies.bluv-2]
+path = ".."
+
+[dependencies.multiversx-sc-meta]
+version = "0.50.0"
+default-features = false

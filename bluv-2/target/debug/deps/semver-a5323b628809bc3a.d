@@ -1,0 +1,12 @@
+/home/dhaya/MultiversX/SmartContracts/bluv-2/target/debug/deps/libsemver-a5323b628809bc3a.rmeta: /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/lib.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/backport.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/display.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/error.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/eval.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/identifier.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/impls.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/parse.rs
+
+/home/dhaya/MultiversX/SmartContracts/bluv-2/target/debug/deps/semver-a5323b628809bc3a.d: /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/lib.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/backport.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/display.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/error.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/eval.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/identifier.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/impls.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/parse.rs
+
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/lib.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/backport.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/display.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/error.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/eval.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/identifier.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/impls.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.23/src/parse.rs:

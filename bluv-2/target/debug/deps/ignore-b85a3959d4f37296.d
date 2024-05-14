@@ -1,0 +1,12 @@
+/home/dhaya/MultiversX/SmartContracts/bluv-2/target/debug/deps/libignore-b85a3959d4f37296.rmeta: /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/lib.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/default_types.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/dir.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/gitignore.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/overrides.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/pathutil.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/types.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/walk.rs
+
+/home/dhaya/MultiversX/SmartContracts/bluv-2/target/debug/deps/ignore-b85a3959d4f37296.d: /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/lib.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/default_types.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/dir.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/gitignore.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/overrides.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/pathutil.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/types.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/walk.rs
+
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/lib.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/default_types.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/dir.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/gitignore.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/overrides.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/pathutil.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/types.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.22/src/walk.rs:

@@ -1,0 +1,20 @@
+/home/dhaya/MultiversX/SmartContracts/bluv-2/target/debug/deps/libzip-c31c2f3908e64aa2.rmeta: /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/lib.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/compression.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/cp437.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/crc32.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/extra_fields/mod.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/extra_fields/extended_timestamp.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/read.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/read/stream.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/result.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/spec.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/types.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/write.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/zipcrypto.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/unstable.rs
+
+/home/dhaya/MultiversX/SmartContracts/bluv-2/target/debug/deps/zip-c31c2f3908e64aa2.d: /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/lib.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/compression.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/cp437.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/crc32.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/extra_fields/mod.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/extra_fields/extended_timestamp.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/read.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/read/stream.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/result.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/spec.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/types.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/write.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/zipcrypto.rs /home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/unstable.rs
+
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/lib.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/compression.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/cp437.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/crc32.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/extra_fields/mod.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/extra_fields/extended_timestamp.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/read.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/read/stream.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/result.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/spec.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/types.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/write.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/zipcrypto.rs:
+/home/dhaya/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.2.3/src/unstable.rs:
+
+# env-dep:CARGO_PKG_VERSION=1.2.3
